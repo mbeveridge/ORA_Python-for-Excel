@@ -7,11 +7,11 @@
 
 ## Preface
 
-P.xiv : _"This book also expects you to use ... at least **Excel 2007** on Windows and **Excel 2016** on MacOS. The locally installed version of Excel that comes with the Microsoft 365 subscription will also work"_
+* P.xiv : _"This book also expects you to use ... at least **Excel 2007** on Windows and **Excel 2016** on MacOS. The locally installed version of Excel that comes with the Microsoft 365 subscription will also work"_
 
-P.xv : _"Web page ([https://xlwings.org/book](https://xlwings.org/book)) with additional information to help you with this book"_
+* P.xv : _"Web page ([https://xlwings.org/book](https://xlwings.org/book)) with additional information to help you with this book"_
 
-P.xv : _Supplemental material is available at [https://github.com/fzumstein/python-for-excel](https://github.com/fzumstein/python-for-excel)_
+* P.xv : _Supplemental material is available at [https://github.com/fzumstein/python-for-excel](https://github.com/fzumstein/python-for-excel)_
 
 
 
