@@ -30,6 +30,8 @@
 * P.26 : `conda install plotly xlutils`
 * P.26 : `pip install pyxlsb pytrends`
 * P.27 : "when you start building real projects, it's good practice to use one Conda or virtual environment for each project"
+* P.28 `jupyter notebook`
+* P.33 : "Easiest way to run the Jupyter notebooks of the companion repository in the cloud is by going to its Binder URL ([https://oreil.ly/MAjJK](https://mybinder.org/v2/gh/fzumstein/python-for-excel/1st-edition))"
 
 
 ### 03. Getting Started with Python
